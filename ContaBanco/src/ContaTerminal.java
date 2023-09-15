@@ -21,7 +21,7 @@ public class ContaTerminal {
         System.out.println("Por favor, digite seu nome: ");
         nomeCliente = teclado.nextLine();
 
-        System.out.println("teste:");
+        System.out.println("Por favor, digite o valor do seu saldo:");
         saldo = teclado.nextDouble();
         
 
